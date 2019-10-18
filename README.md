@@ -5,3 +5,4 @@ Aircnc App de Devs com Empresas que queiram compartilhar espaço, conhecimento, 
 Basicamente possui o mesmo principio do Airbnb, porém focado para Devs e Empresas. 
 
 Obs: App desenvolvido na Semana Oministack da RocketSeat
+Obs2: App sem fins comerciais. Apenas para conhecimento. 
